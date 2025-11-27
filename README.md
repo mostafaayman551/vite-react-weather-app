@@ -66,3 +66,5 @@ Make sure to:
 1. Sign up at [OpenWeatherMap](https://openweathermap.org/api)
 2. Get your free API key
 3. Add it to your `.env` file as `VITE_WEATHER_API_KEY`
+
+[Live Demo](https://myweatherappfree.netlify.app)
